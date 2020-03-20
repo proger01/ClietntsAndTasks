@@ -1,0 +1,18 @@
+.clients__inblock {
+    max-width: 50%;
+    border-right: 1px solid black;
+    
+}
+
+.clients__inlist {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+
+}
+
+.clients__list {
+    padding: 20px;
+    width: 120px;
+    
+}
